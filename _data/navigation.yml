@@ -1,0 +1,65 @@
+- title: Nieuws
+  url: /
+  sublinks:
+    - title: Binnenland
+      url: /binnenland/
+    - title: Buitenland
+      url: /buitenland/
+    - title: Tech
+      url: /tech/
+    - title: Overig
+      url: /nieuws/      
+      
+- title: Sport
+  url: /sport/
+  sublinks:
+    - title: Voetbal
+      url: /sport/voetbal/
+    - title: Wielrennen
+      url: /sport/wielrennen/
+    - title: Tennis
+      url: /sport/tennis/
+    - title: Autosport
+      url: /sport/autosport/
+    - title: Darts
+      url: /sport/darts/
+    - title: Schaatsen
+      url: /sport/autosport/
+      
+- title: Regio
+  url: /regio/
+  sublinks:
+    - title: Drenthe
+      url: /regio/drenthe/    
+    - title: Flevoland
+      url: /regio/flevoland/
+    - title: Friesland
+      url: /regio/fryslan/
+    - title: Gelderland
+      url: /regio/gelderland/
+    - title: Groningen
+      url: /regio/groningen/
+    - title: Limburg
+      url: /regio/limburg/
+    - title: Noord-Brabant
+      url: /regio/noord-brabant/
+    - title: Noord-Holland
+      url: /regio/noord-holland/
+    - title: Utrecht
+      url: /regio/utrecht/
+    - title: Zeeland
+      url: /regio/zeeland/
+    - title: Zuid-Holland
+      url: /regio/zuid-holland/
+
+- title: +Extra
+  url: /extra/
+  sublinks:
+    - title: Entertainment
+      url: /extra/entertainment/
+    - title: Financieel
+      url: /extra/financieel/
+    - title: Cultuur
+      url: /extra/cultuur/
+    - title: Overig
+      url: /extra/overig/
